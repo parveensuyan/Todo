@@ -9,7 +9,7 @@ The main Page for website where we need to click on Todos which leads to todo li
 <h2>Edit Todo</h2>
 <img src="https://github.com/parveensuyan/Todo/blob/main/images/update.PNG" alt = "main page"/>	
 <h2>Updated Todo Page</h2>
-<img src="https://github.com/parveensuyan/Todo/blob/main/images/UpdatedPagw.PNG" alt = "main page"/>
+<img src="https://github.com/parveensuyan/Todo/blob/main/images/UpdatePagw.PNG" alt = "main page"/>
 <h2>Updated Todo Listing </h2>	
 <img src="https://github.com/parveensuyan/Todo/blob/main/images/updated.PNG" alt = "main page"/>
 <h2>Delete and Completed Todo </h2>
